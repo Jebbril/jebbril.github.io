@@ -26,3 +26,5 @@ package-lock.json
 _sass/vendors
 assets/js/dist
 .env
+assets/img/drafts
+_drafts
